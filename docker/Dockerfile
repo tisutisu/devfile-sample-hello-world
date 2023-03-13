@@ -1,1 +1,1 @@
-FROM quay.io/jitesoft/nginx:latest
+FROM quay.io/jitesoft/nginx2:latest
